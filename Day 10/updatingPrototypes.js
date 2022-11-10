@@ -10,3 +10,4 @@ Object.setPrototypeOf(Child,obj);
 
 console.log(child.getNumber());
 //43
+

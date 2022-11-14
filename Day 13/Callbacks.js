@@ -13,3 +13,4 @@ fs.readFile(__filename,(err,data)=>{
   console.log(`error-${err}`);
 });
 console.log('end');
+//callbacka are async in js
